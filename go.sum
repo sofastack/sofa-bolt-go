@@ -132,10 +132,10 @@ github.com/rogpeppe/go-internal v1.3.0/go.mod h1:M8bDsm7K2OlrFYOpmOWEs/qY81heoFR
 github.com/russross/blackfriday/v2 v2.0.1/go.mod h1:+Rmxgy9KzJVeS9/2gXHxylqXiyQDYRxCVz55jmeOWTM=
 github.com/shurcooL/sanitized_anchor_name v1.0.0/go.mod h1:1NzhyTcUVG4SuEtjjoZeVRXNmyL/1OwPU0+IJeTBvfc=
 github.com/sirupsen/logrus v1.2.0/go.mod h1:LxeOpSwHxABJmUn/MG1IvRgCAasNZTLOkJPxbbu5VWo=
-github.com/sofastack/sofa-common-go v0.0.0-20220530025146-d03a9ce2753c h1:T+s9fv0QzU8WETQwzSywd01/w7yGHXcosJm7PlSbQ/I=
-github.com/sofastack/sofa-common-go v0.0.0-20220530025146-d03a9ce2753c/go.mod h1:Zi/A2YOahnosPtDZEIk+8cRw7OL9x9cNYTXJeF7q8u8=
-github.com/sofastack/sofa-hessian-go v0.0.0-20220530025732-bafa7506e711 h1:unaaSUcJNv2piNe8LU36gpVfhN5HLjXcXH7oHMZulcY=
-github.com/sofastack/sofa-hessian-go v0.0.0-20220530025732-bafa7506e711/go.mod h1:ExLjSOidXYfeke9buGadKDP6tXt24stDBJHBUCvenK4=
+github.com/sofastack/sofa-common-go v0.0.1 h1:9dUSJ1NhI3n8TOyPZKL0qKM29+YDDiKAbmwMU3jrQDo=
+github.com/sofastack/sofa-common-go v0.0.1/go.mod h1:Zi/A2YOahnosPtDZEIk+8cRw7OL9x9cNYTXJeF7q8u8=
+github.com/sofastack/sofa-hessian-go v0.0.1 h1:e0sNEcJTKxEY7Ig7swBCnESt1HGO3XdYDfdHkWcXIOs=
+github.com/sofastack/sofa-hessian-go v0.0.1/go.mod h1:xuF12CwWqX8Svf0UYfz7ndeGCSvis54d57I+gLnBjEo=
 github.com/soheilhy/cmux v0.1.4/go.mod h1:IM3LyeVVIOuxMH7sFAkER9+bJ4dT7Ms6E4xg4kGIyLM=
 github.com/spaolacci/murmur3 v0.0.0-20180118202830-f09979ecbc72/go.mod h1:JwIasOWyU6f++ZhiEuf87xNszmSA2myDM2Kzu9HwQUA=
 github.com/spf13/afero v1.1.2/go.mod h1:j4pytiNVoe2o6bmDsKpLACNPDBIoEAkihy7loJ1B0CQ=

@@ -7,8 +7,8 @@ require (
 	github.com/jpillora/backoff v1.0.0
 	github.com/json-iterator/go v1.1.10
 	github.com/paulbellamy/ratecounter v0.2.0
-	github.com/sofastack/sofa-common-go v0.0.0-20220530025146-d03a9ce2753c
-	github.com/sofastack/sofa-hessian-go v0.0.0-20220530025732-bafa7506e711
+	github.com/sofastack/sofa-common-go v0.0.1
+	github.com/sofastack/sofa-hessian-go v0.0.1
 	github.com/spf13/cobra v1.0.0
 	github.com/stretchr/testify v1.6.1
 	go.uber.org/atomic v1.6.0
