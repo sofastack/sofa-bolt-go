@@ -1,0 +1,12 @@
+/bin
+*.swp
+*.out
+.vscode
+.idea
+*.test
+*.log
+.DS_Store
+*.test
+/fuzz
+*.zip
+*.bin

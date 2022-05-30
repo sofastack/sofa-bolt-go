@@ -1,0 +1,12 @@
+ {
+  "Dir": ".",
+  "Template": ".header.txt",
+  "Includes": [
+      "**/**.go",
+      "sofabolt/cmd/**.go"
+  ],
+  "Excludes": [],
+  "UseDefaultExcludes": true,
+  "Properties": {
+  }
+}
